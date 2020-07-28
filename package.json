@@ -1,0 +1,17 @@
+{
+  "name": "oss-uploader",
+  "version": "1.0.0",
+  "description": "OSS文件上传器",
+  "main": "app.js",
+  "scripts": {
+    "build": "node app.js"
+  },
+  "author": "iForday",
+  "license": "MIT",
+  "dependencies": {
+    "ali-oss": "^6.10.0",
+    "byte-size": "^7.0.0",
+    "colors": "^1.4.0",
+    "moment": "^2.27.0"
+  }
+}
